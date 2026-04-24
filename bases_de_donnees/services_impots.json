@@ -1,0 +1,14 @@
+{
+    "TG012345": {
+        "nif": "NIF-LOM-2019-44521",
+        "statut_fiscal": "À jour",
+        "derniere_declaration": "Janvier 2026",
+        "montant_du": 0
+    },
+    "TG067890": {
+        "nif": "NIF-SOK-2021-88734",
+        "statut_fiscal": "En retard",
+        "derniere_declaration": "Juin 2025",
+        "montant_du": 145000
+    }
+}

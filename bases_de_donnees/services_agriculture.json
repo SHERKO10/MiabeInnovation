@@ -1,0 +1,16 @@
+{
+    "TG012345": {
+        "parcelle_id": "MASA-2024-0871",
+        "superficie": "3.5 hectares",
+        "culture": "Maïs",
+        "subvention_statut": "Approuvée",
+        "montant": 75000
+    },
+    "TG067890": {
+        "parcelle_id": "MASA-2024-0342",
+        "superficie": "1.8 hectares",
+        "culture": "Igname",
+        "subvention_statut": "Dossier incomplet",
+        "montant": 0
+    }
+}

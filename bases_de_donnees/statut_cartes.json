@@ -1,0 +1,10 @@
+{
+    "TG012345": {
+        "type_document": "Carte d'Identité",
+        "statut_demande": "Prête, disponible pour retrait au centre de Lomé."
+    },
+    "TG067890": {
+        "type_document": "Carte d'Identité",
+        "statut_demande": "En cours de traitement. Veuillez patienter."
+    }
+}
